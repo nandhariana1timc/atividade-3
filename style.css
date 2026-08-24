@@ -1,0 +1,55 @@
+       /* Caixa principal */
+        .perfil {
+            width: 400px;
+            border: 2px solid black;
+            padding: 10px;
+        }
+
+        /* Foto */
+        .foto {
+            width: 150px;
+            height: 150px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        /* Botão */
+        .botao {
+            margin-top: 10px;
+            padding: 5px;
+        }
+
+        /* Informações */
+        .informacao {
+            border-top: 1px solid black;
+            padding: 5px;
+        }
+
+        /* Primeiro parágrafo */
+        .primeiro {
+            margin-bottom: 40px;
+        }
+
+        /* Segundo parágrafo */
+        .segundo {
+            margin-top: 20px;
+        }
+
+        /* Caixas 1, 2 e 3 */
+        .caixas {
+            display: flex;
+        }
+
+        .caixa {
+            width: 70px;
+            height: 80px;
+            border: 2px solid black;
+            margin-right: 5px;
+        }
+
+        /* Rodapé */
+        .rodape {
+            border: 1px solid black;
+
+            
+
